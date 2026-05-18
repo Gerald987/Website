@@ -1,0 +1,6 @@
+﻿date: 2027-02-06
+title: Intro to LangChain
+category: Workshop
+cancelled: false
+---
+Build an LLM-powered application using LangChain and a local model.

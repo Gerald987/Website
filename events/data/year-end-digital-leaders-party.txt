@@ -1,0 +1,6 @@
+﻿date: 2026-12-09
+title: Year-End Digital Leaders Party
+category: Event
+cancelled: false
+---
+Celebrate the year's achievements with games, awards, and tech trivia.

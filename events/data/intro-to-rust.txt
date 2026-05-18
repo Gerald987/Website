@@ -1,0 +1,6 @@
+﻿date: 2027-03-25
+title: Intro to Rust
+category: Workshop
+cancelled: false
+---
+Why Rust is gaining popularity and how to write your first memory-safe program.

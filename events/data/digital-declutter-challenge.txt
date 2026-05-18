@@ -1,0 +1,6 @@
+﻿date: 2026-06-09
+title: Digital Declutter Challenge
+category: Event
+cancelled: false
+---
+Learn to organise files, emails, and apps to build cleaner digital habits.

@@ -1,0 +1,6 @@
+﻿date: 2026-06-27
+title: Website Accessibility Session
+category: Workshop
+cancelled: false
+---
+Best practices for making websites usable for everyone, including those with disabilities.

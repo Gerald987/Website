@@ -1,0 +1,6 @@
+﻿date: 2027-02-05
+title: Logo Design Sprint
+category: Competition
+cancelled: false
+---
+Design three logo concepts for a fictional tech brand in under one hour.

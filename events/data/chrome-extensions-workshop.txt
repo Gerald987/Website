@@ -1,0 +1,6 @@
+﻿date: 2026-05-26
+title: Chrome Extensions Workshop
+category: Workshop
+cancelled: false
+---
+Build your own Chrome browser extension using JavaScript and the Extensions API.

@@ -1,0 +1,6 @@
+﻿date: 2027-04-12
+title: Pixel Art Workshop
+category: Workshop
+cancelled: false
+---
+Create retro-style pixel art sprites and animations using Aseprite.

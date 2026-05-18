@@ -1,0 +1,6 @@
+﻿date: 2026-08-09
+title: Laser Cutter Design Session
+category: Workshop
+cancelled: false
+---
+Design patterns in Inkscape and cut them using the school's laser cutter.

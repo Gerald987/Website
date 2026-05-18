@@ -1,0 +1,6 @@
+﻿date: 2026-08-21
+title: Annual Digital Leaders Hackathon 2026
+category: Competition
+cancelled: false
+---
+24-hour coding challenge to solve a real school problem with technology.

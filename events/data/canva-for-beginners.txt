@@ -1,0 +1,6 @@
+﻿date: 2026-09-19
+title: Canva for Beginners
+category: Workshop
+cancelled: false
+---
+Design posters, presentations, and social graphics using Canva.

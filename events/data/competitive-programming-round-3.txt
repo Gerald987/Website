@@ -1,0 +1,6 @@
+﻿date: 2027-03-17
+title: Competitive Programming Round 3
+category: Competition
+cancelled: false
+---
+Third round of the academic year's competitive programming series.

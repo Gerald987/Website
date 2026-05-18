@@ -1,0 +1,6 @@
+﻿date: 2026-06-11
+title: Digital Photography Basics
+category: Workshop
+cancelled: false
+---
+Learn composition, lighting, and editing techniques for digital photography.

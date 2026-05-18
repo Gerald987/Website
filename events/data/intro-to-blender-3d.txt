@@ -1,0 +1,6 @@
+﻿date: 2026-09-05
+title: Intro to Blender 3D
+category: Workshop
+cancelled: false
+---
+Model, texture, and render a simple 3D object using Blender.

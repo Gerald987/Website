@@ -1,0 +1,6 @@
+﻿date: 2026-12-10
+title: Tech Gift Guide Debate
+category: Event
+cancelled: false
+---
+Debate the best tech gifts of the year - fun, festive, and informative.

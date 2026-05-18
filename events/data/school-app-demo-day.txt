@@ -1,0 +1,6 @@
+﻿date: 2026-10-20
+title: School App Demo Day
+category: Showcase
+cancelled: false
+---
+Teams demo their term-long school app projects to staff, students, and judges.

@@ -1,0 +1,6 @@
+﻿date: 2026-11-15
+title: Intro to SQL
+category: Workshop
+cancelled: false
+---
+Query a real database using SELECT, WHERE, and JOIN statements.

@@ -1,0 +1,6 @@
+﻿date: 2026-08-08
+title: Intro to Networking
+category: Talk
+cancelled: false
+---
+How the internet works: IP addresses, routers, DNS, and packets explained simply.

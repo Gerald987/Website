@@ -1,0 +1,6 @@
+﻿date: 2026-08-04
+title: Spreadsheet Automation Workshop
+category: Workshop
+cancelled: false
+---
+Use macros and Google Apps Script to automate repetitive spreadsheet tasks.

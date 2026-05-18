@@ -1,0 +1,6 @@
+﻿date: 2026-10-10
+title: Node.js Backend Basics
+category: Workshop
+cancelled: false
+---
+Build a simple REST API with Node.js and Express in this beginner workshop.

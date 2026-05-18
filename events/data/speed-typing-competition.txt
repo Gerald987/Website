@@ -1,0 +1,6 @@
+﻿date: 2027-01-30
+title: Speed Typing Competition
+category: Competition
+cancelled: false
+---
+Test your WPM on typeracer.com and compete for the fastest typist title.

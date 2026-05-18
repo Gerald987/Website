@@ -1,0 +1,6 @@
+﻿date: 2027-01-26
+title: API Integration Workshop
+category: Workshop
+cancelled: false
+---
+Fetch live data from public APIs and display it on a webpage.

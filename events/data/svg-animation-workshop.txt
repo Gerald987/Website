@@ -1,0 +1,6 @@
+﻿date: 2026-08-18
+title: SVG Animation Workshop
+category: Workshop
+cancelled: false
+---
+Animate scalable vector graphics with CSS and JavaScript for the web.

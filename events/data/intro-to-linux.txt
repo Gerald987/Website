@@ -1,0 +1,6 @@
+﻿date: 2027-02-03
+title: Intro to Linux
+category: Workshop
+cancelled: false
+---
+Navigate the terminal, manage files, and run scripts in a Linux environment.

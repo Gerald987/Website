@@ -1,0 +1,6 @@
+﻿date: 2026-09-25
+title: Smartphone Photography Challenge
+category: Competition
+cancelled: false
+---
+Capture and edit photos on a smartphone; best shots win the day.

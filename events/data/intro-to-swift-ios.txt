@@ -1,0 +1,6 @@
+﻿date: 2026-07-12
+title: Intro to Swift and iOS Dev
+category: Workshop
+cancelled: false
+---
+Build a simple iOS app using Swift and Xcode on a Mac.

@@ -1,0 +1,6 @@
+﻿date: 2026-07-18
+title: Open-Source Contribution Day
+category: Event
+cancelled: false
+---
+Find a beginner-friendly GitHub repo and make your first open-source pull request.

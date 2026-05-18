@@ -1,0 +1,6 @@
+﻿date: 2027-05-02
+title: Digital Leaders End-of-Year Showcase 2027
+category: Showcase
+cancelled: false
+---
+Celebrate a full year of projects, growth, and innovation across all members.

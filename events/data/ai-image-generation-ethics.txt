@@ -1,0 +1,6 @@
+﻿date: 2027-02-02
+title: AI Image Generation Ethics
+category: Panel
+cancelled: false
+---
+Discussion on copyright, artist impact, and responsible use of image-generating AI.

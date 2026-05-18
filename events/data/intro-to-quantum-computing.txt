@@ -1,0 +1,6 @@
+﻿date: 2026-11-12
+title: Intro to Quantum Computing
+category: Talk
+cancelled: false
+---
+Qubits, superposition, and entanglement - an accessible introduction.

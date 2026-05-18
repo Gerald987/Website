@@ -1,0 +1,6 @@
+﻿date: 2026-11-16
+title: Web Scraping with Python
+category: Workshop
+cancelled: false
+---
+Extract and parse data from websites using BeautifulSoup and Requests.

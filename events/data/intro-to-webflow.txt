@@ -1,0 +1,6 @@
+﻿date: 2026-10-24
+title: Intro to Webflow
+category: Workshop
+cancelled: false
+---
+Design and publish a responsive website visually using Webflow.

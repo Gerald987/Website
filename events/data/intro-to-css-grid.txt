@@ -1,0 +1,6 @@
+﻿date: 2026-09-12
+title: Intro to CSS Grid
+category: Workshop
+cancelled: false
+---
+Master two-dimensional layouts for the web using CSS Grid.

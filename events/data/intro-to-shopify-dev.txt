@@ -1,0 +1,6 @@
+﻿date: 2026-11-01
+title: Intro to Shopify Dev
+category: Workshop
+cancelled: false
+---
+Customise a Shopify store using Liquid templates and the Storefront API.

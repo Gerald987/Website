@@ -1,0 +1,6 @@
+﻿date: 2026-09-11
+title: Version Control with Git
+category: Workshop
+cancelled: false
+---
+Understand branches, commits, and merges using Git and GitHub.

@@ -1,0 +1,6 @@
+﻿date: 2026-09-13
+title: Intro to Kotlin
+category: Workshop
+cancelled: false
+---
+Explore Kotlin syntax and build a simple Android application.

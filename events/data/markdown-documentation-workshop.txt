@@ -1,0 +1,6 @@
+﻿date: 2026-07-20
+title: Markdown and Documentation Workshop
+category: Workshop
+cancelled: false
+---
+Write clean, readable documentation using Markdown and README best practices.

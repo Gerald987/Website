@@ -1,0 +1,6 @@
+﻿date: 2027-01-08
+title: Intro to GSAP Animations
+category: Workshop
+cancelled: false
+---
+Create high-performance web animations using the GreenSock Animation Platform.

@@ -1,0 +1,6 @@
+﻿date: 2026-07-27
+title: Cloud Computing Overview
+category: Talk
+cancelled: false
+---
+What the cloud actually is, and how businesses and students can use it.

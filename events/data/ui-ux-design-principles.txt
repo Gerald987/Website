@@ -1,0 +1,6 @@
+﻿date: 2026-08-12
+title: UI/UX Design Principles
+category: Workshop
+cancelled: false
+---
+Learn user-centred design thinking and create a prototype in Figma.

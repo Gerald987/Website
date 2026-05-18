@@ -1,0 +1,6 @@
+﻿date: 2026-06-13
+title: Intro to p5.js Creative Coding
+category: Workshop
+cancelled: false
+---
+Use p5.js to create generative art and interactive visual sketches.

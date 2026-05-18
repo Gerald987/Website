@@ -1,0 +1,6 @@
+﻿date: 2026-10-28
+title: Space and Tech Talk
+category: Talk
+cancelled: false
+---
+How technology is enabling the next era of space exploration.

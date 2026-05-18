@@ -1,0 +1,6 @@
+﻿date: 2026-06-17
+title: Wearable Tech Talk
+category: Talk
+cancelled: false
+---
+The technology behind smartwatches, fitness trackers, and medical wearables.

@@ -1,0 +1,6 @@
+﻿date: 2026-09-20
+title: Intro to REST APIs
+category: Workshop
+cancelled: false
+---
+Design, test, and consume RESTful APIs using Postman and fetch().

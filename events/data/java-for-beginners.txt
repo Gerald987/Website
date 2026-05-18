@@ -1,0 +1,6 @@
+﻿date: 2027-02-19
+title: Java for Beginners
+category: Workshop
+cancelled: false
+---
+Object-oriented programming concepts introduced through simple Java programs.

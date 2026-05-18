@@ -1,0 +1,6 @@
+﻿date: 2027-01-10
+title: Intro to React
+category: Workshop
+cancelled: false
+---
+Build a simple interactive UI using React components and state.

@@ -1,0 +1,6 @@
+﻿date: 2027-01-14
+title: Cybersecurity CTF Challenge
+category: Competition
+cancelled: false
+---
+Capture the Flag competition testing real-world cybersecurity skills.

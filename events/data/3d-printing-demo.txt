@@ -1,0 +1,6 @@
+﻿date: 2026-06-03
+title: 3D Printing Demo
+category: Demo
+cancelled: false
+---
+Live demonstration of 3D printing technology and its real-world applications.

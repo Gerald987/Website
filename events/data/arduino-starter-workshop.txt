@@ -1,0 +1,6 @@
+﻿date: 2027-01-22
+title: Arduino Starter Workshop
+category: Workshop
+cancelled: false
+---
+Programme an Arduino to blink LEDs and read sensor data.

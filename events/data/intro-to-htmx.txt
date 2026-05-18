@@ -1,0 +1,6 @@
+﻿date: 2027-04-10
+title: Intro to HTMX
+category: Workshop
+cancelled: false
+---
+Add dynamic behaviour to HTML pages without a heavy JavaScript framework.

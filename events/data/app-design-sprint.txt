@@ -1,0 +1,6 @@
+﻿date: 2026-06-07
+title: App Design Sprint
+category: Competition
+cancelled: false
+---
+Teams compete to wireframe and prototype a mobile app in under 2 hours.

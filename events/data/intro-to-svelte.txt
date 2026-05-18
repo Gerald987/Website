@@ -1,0 +1,6 @@
+﻿date: 2027-05-04
+title: Intro to Svelte
+category: Workshop
+cancelled: false
+---
+Build reactive UIs that compile to minimal JavaScript using Svelte.

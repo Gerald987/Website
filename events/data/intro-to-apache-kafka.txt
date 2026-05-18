@@ -1,0 +1,6 @@
+﻿date: 2027-01-13
+title: Intro to Apache Kafka
+category: Talk
+cancelled: false
+---
+High-level introduction to event streaming and real-time data pipelines.

@@ -1,0 +1,6 @@
+﻿date: 2027-04-16
+title: Digital Leaders Charity Drive
+category: Event
+cancelled: false
+---
+Fundraising initiative where tech skills are used to create materials for charity.

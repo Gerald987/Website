@@ -1,0 +1,6 @@
+﻿date: 2026-07-16
+title: Ethical AI Discussion
+category: Panel
+cancelled: false
+---
+Roundtable on bias in algorithms, surveillance technology, and AI governance.

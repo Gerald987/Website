@@ -1,0 +1,6 @@
+﻿date: 2027-02-15
+title: Figma Advanced Prototyping
+category: Workshop
+cancelled: false
+---
+Create interactive, animated prototypes with auto layout and variables in Figma.

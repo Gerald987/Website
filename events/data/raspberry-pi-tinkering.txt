@@ -1,0 +1,6 @@
+﻿date: 2026-09-24
+title: Raspberry Pi Tinkering Session
+category: Workshop
+cancelled: false
+---
+Set up a Raspberry Pi and run your first Linux commands.

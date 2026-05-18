@@ -1,0 +1,6 @@
+﻿date: 2026-11-27
+title: Intro to Blockchain
+category: Talk
+cancelled: false
+---
+Demystifying blockchain, cryptocurrency, and decentralised systems.

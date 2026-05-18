@@ -1,0 +1,6 @@
+﻿date: 2026-06-15
+title: Scratch Game Jam
+category: Competition
+cancelled: false
+---
+Students build a game in Scratch within 90 minutes and present to peers.

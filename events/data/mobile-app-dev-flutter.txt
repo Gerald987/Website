@@ -1,0 +1,6 @@
+﻿date: 2027-03-11
+title: Mobile App Dev with Flutter
+category: Workshop
+cancelled: false
+---
+Build a cross-platform mobile app prototype using Flutter and Dart.

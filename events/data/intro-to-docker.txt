@@ -1,0 +1,6 @@
+﻿date: 2027-04-08
+title: Intro to Docker
+category: Workshop
+cancelled: false
+---
+Containerise a simple web application and understand the basics of DevOps.

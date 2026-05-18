@@ -1,0 +1,6 @@
+﻿date: 2027-02-09
+title: Intro to PostgreSQL
+category: Workshop
+cancelled: false
+---
+Set up a PostgreSQL database, write queries, and model relational data.

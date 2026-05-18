@@ -1,0 +1,6 @@
+﻿date: 2026-10-27
+title: Intro to GraphQL
+category: Workshop
+cancelled: false
+---
+Replace REST endpoints with flexible GraphQL queries in a hands-on lab.

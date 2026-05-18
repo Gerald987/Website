@@ -1,0 +1,6 @@
+﻿date: 2026-07-06
+title: Robotics Showcase
+category: Showcase
+cancelled: false
+---
+Student teams demonstrate their self-built robots completing obstacle courses.

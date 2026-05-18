@@ -1,0 +1,6 @@
+﻿date: 2027-04-28
+title: Intro to R for Statistics
+category: Workshop
+cancelled: false
+---
+Use R to explore datasets, run basic stats, and plot visualisations.

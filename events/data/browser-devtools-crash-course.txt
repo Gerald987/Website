@@ -1,0 +1,6 @@
+﻿date: 2026-10-30
+title: Browser DevTools Crash Course
+category: Workshop
+cancelled: false
+---
+Inspect, debug, and profile web pages using Chrome DevTools.

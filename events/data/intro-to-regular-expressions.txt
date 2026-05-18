@@ -1,0 +1,6 @@
+﻿date: 2027-04-02
+title: Intro to Regular Expressions
+category: Workshop
+cancelled: false
+---
+Master the art of pattern matching and text manipulation using regex.

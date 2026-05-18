@@ -1,0 +1,6 @@
+﻿date: 2026-12-15
+title: Holiday Coding Challenge 2026
+category: Competition
+cancelled: false
+---
+Solve festive programming puzzles and earn points on the leaderboard.

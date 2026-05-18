@@ -1,0 +1,6 @@
+﻿date: 2026-06-19
+title: AI and Machine Learning Talk
+category: Talk
+cancelled: false
+---
+Accessible introduction to how AI systems learn and make decisions.

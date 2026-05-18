@@ -1,0 +1,6 @@
+﻿date: 2027-04-06
+title: Digital Leaders Elections
+category: Event
+cancelled: false
+---
+Annual elections for next year's club officers, with campaign pitches from candidates.

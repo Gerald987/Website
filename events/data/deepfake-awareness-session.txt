@@ -1,0 +1,6 @@
+﻿date: 2027-03-05
+title: Deepfake Awareness Session
+category: Talk
+cancelled: false
+---
+Understand how deepfakes are created and how to detect them responsibly.

@@ -1,0 +1,6 @@
+﻿date: 2026-12-07
+title: Tech Retrospective 2026
+category: Talk
+cancelled: false
+---
+Look back at the biggest tech moments and innovations of the year.

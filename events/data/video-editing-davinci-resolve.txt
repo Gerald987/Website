@@ -1,0 +1,6 @@
+﻿date: 2026-07-14
+title: Video Editing with DaVinci Resolve
+category: Workshop
+cancelled: false
+---
+Hands-on session cutting and colour-grading short video clips.

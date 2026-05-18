@@ -1,0 +1,6 @@
+﻿date: 2026-10-14
+title: Digital Leaders Induction Day
+category: Event
+cancelled: false
+---
+Welcome event for new members joining the Digital Leaders programme.

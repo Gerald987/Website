@@ -1,0 +1,6 @@
+﻿date: 2026-08-27
+title: Intro to WebSockets
+category: Workshop
+cancelled: false
+---
+Build a real-time chat app using WebSockets and Node.js.

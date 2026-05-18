@@ -1,0 +1,6 @@
+﻿date: 2026-10-23
+title: Robotics Coding Challenge
+category: Competition
+cancelled: false
+---
+Programme a robot to navigate a maze as quickly as possible.

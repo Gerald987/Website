@@ -1,0 +1,6 @@
+﻿date: 2026-07-28
+title: Wireframing with Balsamiq
+category: Workshop
+cancelled: false
+---
+Rapidly sketch interface layouts and user flows using Balsamiq wireframing tool.

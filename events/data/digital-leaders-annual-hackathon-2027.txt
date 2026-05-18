@@ -1,0 +1,6 @@
+﻿date: 2027-04-26
+title: Digital Leaders Annual Hackathon 2027
+category: Competition
+cancelled: false
+---
+The biggest event of the year - 24 hours to build something amazing.

@@ -1,0 +1,6 @@
+﻿date: 2026-07-22
+title: HTML and CSS Fundamentals
+category: Workshop
+cancelled: false
+---
+Build your first static webpage from scratch in this two-hour workshop.

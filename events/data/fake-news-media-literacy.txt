@@ -1,0 +1,6 @@
+﻿date: 2026-10-02
+title: Fake News and Media Literacy
+category: Talk
+cancelled: false
+---
+Spot misinformation online and learn tools to verify sources.

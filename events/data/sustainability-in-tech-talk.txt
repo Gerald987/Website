@@ -1,0 +1,6 @@
+﻿date: 2027-03-27
+title: Sustainability in Tech Talk
+category: Talk
+cancelled: false
+---
+Exploring the carbon footprint of data centres and how to build greener software.

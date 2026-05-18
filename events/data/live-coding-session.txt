@@ -1,0 +1,6 @@
+﻿date: 2027-02-17
+title: Live Coding Session
+category: Demo
+cancelled: false
+---
+Watch an experienced programmer build something live and ask questions in real time.

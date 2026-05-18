@@ -1,0 +1,6 @@
+﻿date: 2027-02-27
+title: Bug Bounty Introduction
+category: Talk
+cancelled: false
+---
+Learn what bug bounties are and how ethical hackers find vulnerabilities for reward.

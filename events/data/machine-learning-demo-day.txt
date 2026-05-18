@@ -1,0 +1,6 @@
+﻿date: 2027-02-07
+title: Machine Learning Demo Day
+category: Demo
+cancelled: false
+---
+See student-built ML models in action - image classifiers, chatbots, and more.

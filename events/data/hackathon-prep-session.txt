@@ -1,0 +1,6 @@
+﻿date: 2026-08-17
+title: Hackathon Prep Session
+category: Workshop
+cancelled: false
+---
+Strategy, teamwork, and technical tips to get ready for the annual hackathon.

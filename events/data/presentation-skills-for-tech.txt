@@ -1,0 +1,6 @@
+﻿date: 2026-10-26
+title: Presentation Skills for Tech
+category: Workshop
+cancelled: false
+---
+How to explain complex technical topics clearly to non-technical audiences.
