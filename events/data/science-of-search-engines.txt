@@ -1,0 +1,6 @@
+﻿date: 2026-10-11
+title: Science of Search Engines
+category: Talk
+cancelled: false
+---
+Learn how Google crawls, indexes, and ranks web pages - and basic SEO.

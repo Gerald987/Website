@@ -1,0 +1,6 @@
+﻿date: 2027-01-25
+title: Tech Trivia Season Finale
+category: Competition
+cancelled: false
+---
+The grand finale of the year's trivia series - highest-stakes question round yet.

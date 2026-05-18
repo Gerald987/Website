@@ -1,0 +1,6 @@
+﻿date: 2027-01-06
+title: New Year New Tech Talk
+category: Talk
+cancelled: false
+---
+Predictions and trends for the coming year in consumer and enterprise technology.

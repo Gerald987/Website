@@ -1,0 +1,6 @@
+﻿date: 2026-12-11
+title: Intro to C++
+category: Workshop
+cancelled: false
+---
+Core concepts of C++ including pointers, classes, and performance considerations.

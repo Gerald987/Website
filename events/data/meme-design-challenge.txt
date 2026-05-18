@@ -1,0 +1,6 @@
+﻿date: 2026-11-08
+title: Meme Design Challenge
+category: Competition
+cancelled: false
+---
+Create the funniest tech-related meme using Photoshop or Canva - judged by vote.

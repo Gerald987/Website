@@ -1,0 +1,6 @@
+﻿date: 2027-04-18
+title: End-of-Year Hackathon Prep
+category: Workshop
+cancelled: false
+---
+Form teams and brainstorm ideas ahead of the year-closing hackathon.

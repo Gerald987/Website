@@ -1,0 +1,6 @@
+﻿date: 2026-11-24
+title: Intro to Assembly Language
+category: Talk
+cancelled: false
+---
+Demystifying low-level programming: registers, memory, and basic instructions.

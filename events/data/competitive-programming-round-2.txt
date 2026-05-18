@@ -1,0 +1,6 @@
+﻿date: 2026-10-15
+title: Competitive Programming Round 2
+category: Competition
+cancelled: false
+---
+Second round of algorithmic problem solving for our internal leaderboard.

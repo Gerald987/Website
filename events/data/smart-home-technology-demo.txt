@@ -1,0 +1,6 @@
+﻿date: 2027-02-23
+title: Smart Home Technology Demo
+category: Demo
+cancelled: false
+---
+See smart home devices in action and discuss privacy and convenience trade-offs.

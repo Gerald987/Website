@@ -1,0 +1,6 @@
+﻿date: 2026-07-30
+title: Digital Art with Procreate
+category: Workshop
+cancelled: false
+---
+Create illustrations and designs on iPad using Procreate.

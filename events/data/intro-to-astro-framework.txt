@@ -1,0 +1,6 @@
+﻿date: 2027-03-09
+title: Intro to Astro Framework
+category: Workshop
+cancelled: false
+---
+Build a blazing-fast content website with Astro's component islands architecture.

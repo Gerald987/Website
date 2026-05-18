@@ -1,0 +1,6 @@
+﻿date: 2026-11-17
+title: Intro to FFmpeg
+category: Workshop
+cancelled: false
+---
+Transcode, trim, and process video files from the command line using FFmpeg.

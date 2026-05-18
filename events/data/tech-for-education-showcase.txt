@@ -1,0 +1,6 @@
+﻿date: 2027-02-18
+title: Tech for Education Showcase
+category: Showcase
+cancelled: false
+---
+Students present tools and apps they've built to enhance learning at school.

@@ -1,0 +1,6 @@
+﻿date: 2027-04-30
+title: Career Mapping in Tech
+category: Workshop
+cancelled: false
+---
+Explore the many different roles in tech and map out potential career paths.

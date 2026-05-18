@@ -1,0 +1,6 @@
+﻿date: 2026-07-09
+title: Data Privacy Deep Dive
+category: Talk
+cancelled: false
+---
+Understanding GDPR, cookies, and why your data matters.

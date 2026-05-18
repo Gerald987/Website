@@ -1,0 +1,6 @@
+﻿date: 2027-04-09
+title: Intro to GitHub Actions
+category: Workshop
+cancelled: false
+---
+Automate tests and deployments by writing your first CI/CD workflow in GitHub Actions.

@@ -1,0 +1,6 @@
+﻿date: 2027-03-07
+title: Tech Trivia Night
+category: Competition
+cancelled: false
+---
+Teams compete in a fun technology-themed quiz covering history, pop culture, and code.

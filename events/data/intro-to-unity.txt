@@ -1,0 +1,6 @@
+﻿date: 2026-06-21
+title: Intro to Unity Game Engine
+category: Workshop
+cancelled: false
+---
+Set up Unity and build a simple 2D platformer scene from scratch.

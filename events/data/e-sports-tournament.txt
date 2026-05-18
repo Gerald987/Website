@@ -1,0 +1,6 @@
+﻿date: 2026-09-28
+title: E-Sports Tournament
+category: Competition
+cancelled: false
+---
+Competitive gaming event featuring Rocket League and Mario Kart brackets.

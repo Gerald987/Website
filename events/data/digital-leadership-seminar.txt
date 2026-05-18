@@ -1,0 +1,6 @@
+﻿date: 2026-08-05
+title: Digital Leadership Seminar
+category: Talk
+cancelled: false
+---
+Skills for leading technology projects: communication, delegation, and vision.

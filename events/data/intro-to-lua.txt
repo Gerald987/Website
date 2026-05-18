@@ -1,0 +1,6 @@
+﻿date: 2026-10-16
+title: Intro to Lua
+category: Workshop
+cancelled: false
+---
+Explore Lua as a scripting language used in games, embedded systems, and Neovim.

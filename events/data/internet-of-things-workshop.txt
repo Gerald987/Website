@@ -1,0 +1,6 @@
+﻿date: 2026-10-22
+title: Internet of Things Workshop
+category: Workshop
+cancelled: false
+---
+Connect sensors and actuators to create a simple smart device prototype.

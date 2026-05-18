@@ -1,0 +1,6 @@
+﻿date: 2027-01-16
+title: Intro to Supabase
+category: Workshop
+cancelled: false
+---
+Build a full-stack app with authentication and a PostgreSQL backend using Supabase.

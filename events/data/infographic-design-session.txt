@@ -1,0 +1,6 @@
+﻿date: 2026-06-01
+title: Infographic Design Session
+category: Workshop
+cancelled: false
+---
+Turn complex data into clean, shareable infographics using free online tools.

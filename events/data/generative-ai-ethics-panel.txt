@@ -1,0 +1,6 @@
+﻿date: 2027-02-11
+title: Generative AI Ethics Panel
+category: Panel
+cancelled: false
+---
+Debate the ethical implications of AI-generated content and deepfakes.

@@ -1,0 +1,6 @@
+﻿date: 2027-01-20
+title: Digital Leaders Photography Walk
+category: Event
+cancelled: false
+---
+Group photography walk around campus with challenges and prompts.

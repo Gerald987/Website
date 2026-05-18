@@ -1,0 +1,6 @@
+﻿date: 2026-10-07
+title: Micro:bit Programming Session
+category: Workshop
+cancelled: false
+---
+Programme BBC Micro:bits to display text, detect motion, and play sounds.

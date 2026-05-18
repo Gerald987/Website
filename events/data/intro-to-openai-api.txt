@@ -1,0 +1,6 @@
+﻿date: 2027-02-01
+title: Intro to OpenAI API
+category: Workshop
+cancelled: false
+---
+Send requests to the OpenAI API and build a simple AI-powered text tool.

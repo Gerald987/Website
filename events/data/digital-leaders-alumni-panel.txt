@@ -1,0 +1,6 @@
+﻿date: 2026-11-19
+title: Digital Leaders Alumni Panel
+category: Panel
+cancelled: false
+---
+Former members share how the programme shaped their university and career paths.

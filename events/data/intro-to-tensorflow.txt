@@ -1,0 +1,6 @@
+﻿date: 2026-08-01
+title: Intro to TensorFlow
+category: Workshop
+cancelled: false
+---
+Build and train a simple neural network using TensorFlow and Keras.

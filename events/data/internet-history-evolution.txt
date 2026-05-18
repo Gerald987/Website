@@ -1,0 +1,6 @@
+﻿date: 2026-09-17
+title: Internet History and Evolution
+category: Talk
+cancelled: false
+---
+From ARPANET to the modern web - the story of the internet told interactively.

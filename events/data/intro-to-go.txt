@@ -1,0 +1,6 @@
+﻿date: 2027-04-22
+title: Intro to Go
+category: Workshop
+cancelled: false
+---
+Write your first concurrent programs using the Go programming language.

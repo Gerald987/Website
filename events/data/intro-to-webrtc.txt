@@ -1,0 +1,6 @@
+﻿date: 2027-01-29
+title: Intro to WebRTC
+category: Workshop
+cancelled: false
+---
+Build a simple peer-to-peer video call application using WebRTC APIs.

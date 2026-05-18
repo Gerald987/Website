@@ -1,0 +1,6 @@
+﻿date: 2026-11-25
+title: Intro to Pandas
+category: Workshop
+cancelled: false
+---
+Clean, filter, and analyse tabular data with the Python Pandas library.

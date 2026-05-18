@@ -1,0 +1,6 @@
+﻿date: 2026-11-28
+title: Hour of Code
+category: Event
+cancelled: false
+---
+Join millions globally for a one-hour introduction to computer science.

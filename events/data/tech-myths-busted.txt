@@ -1,0 +1,6 @@
+﻿date: 2026-09-08
+title: Tech Myths Busted
+category: Talk
+cancelled: false
+---
+Debunking common misconceptions about computers, the internet, and software.

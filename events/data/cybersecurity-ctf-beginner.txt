@@ -1,0 +1,6 @@
+﻿date: 2026-11-29
+title: Cybersecurity Capture the Flag - Beginner
+category: Competition
+cancelled: false
+---
+Beginner-friendly offline CTF challenges covering web, crypto, and forensics.

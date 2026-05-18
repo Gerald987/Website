@@ -1,0 +1,6 @@
+﻿date: 2026-11-03
+title: Digital Citizenship Assembly
+category: Event
+cancelled: false
+---
+School-wide assembly on responsible and ethical use of digital technology.

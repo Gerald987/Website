@@ -1,0 +1,6 @@
+﻿date: 2026-09-29
+title: Intro to Ethical Hacking
+category: Workshop
+cancelled: false
+---
+Understand the mindset of a penetration tester and explore beginner lab challenges.

@@ -1,0 +1,6 @@
+﻿date: 2026-10-31
+title: Mindful Tech Use Talk
+category: Talk
+cancelled: false
+---
+Strategies for staying focused and productive in a world of constant notifications.

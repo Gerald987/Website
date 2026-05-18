@@ -1,0 +1,6 @@
+﻿date: 2027-01-18
+title: Digital Leaders Open Day
+category: Event
+cancelled: false
+---
+Showcase the club to prospective new members and their parents.

@@ -1,0 +1,6 @@
+﻿date: 2027-02-14
+title: Intro to Redis
+category: Workshop
+cancelled: false
+---
+Use Redis as a fast in-memory store for caching and session management.

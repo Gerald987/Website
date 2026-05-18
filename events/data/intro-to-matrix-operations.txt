@@ -1,0 +1,6 @@
+﻿date: 2027-01-09
+title: Intro to Matrix Operations
+category: Talk
+cancelled: false
+---
+The maths behind machine learning: vectors, matrices, and dot products explained.

@@ -1,0 +1,6 @@
+﻿date: 2027-01-12
+title: Future of Work Tech Panel
+category: Panel
+cancelled: false
+---
+How automation, remote tools, and AI will reshape careers in the next decade.

@@ -1,0 +1,6 @@
+﻿date: 2026-11-04
+title: Intro to Firebase
+category: Workshop
+cancelled: false
+---
+Add real-time database, authentication, and hosting to a web app using Firebase.

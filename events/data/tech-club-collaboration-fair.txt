@@ -1,0 +1,6 @@
+﻿date: 2027-04-04
+title: Tech Club Collaboration Fair
+category: Event
+cancelled: false
+---
+Meet members from other school tech clubs across Hong Kong.

@@ -1,0 +1,6 @@
+﻿date: 2026-10-08
+title: Intro to Deno
+category: Workshop
+cancelled: false
+---
+Explore the modern JavaScript/TypeScript runtime built as an alternative to Node.

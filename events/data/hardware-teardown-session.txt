@@ -1,0 +1,6 @@
+﻿date: 2026-11-09
+title: Hardware Teardown Session
+category: Workshop
+cancelled: false
+---
+Disassemble and identify components in an old laptop and desktop PC.

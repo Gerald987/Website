@@ -1,0 +1,6 @@
+﻿date: 2026-10-19
+title: Open Data Exploration
+category: Workshop
+cancelled: false
+---
+Find, download, and analyse public datasets to answer interesting questions.

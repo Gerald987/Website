@@ -1,0 +1,6 @@
+﻿date: 2027-03-29
+title: Annual Guest Speaker Series: Round 2
+category: Talk
+cancelled: false
+---
+A founder of a local tech startup shares lessons from building and scaling a product.

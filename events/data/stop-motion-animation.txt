@@ -1,0 +1,6 @@
+﻿date: 2026-12-01
+title: Stop Motion Animation
+category: Workshop
+cancelled: false
+---
+Create a 30-second stop motion video using a smartphone and free software.

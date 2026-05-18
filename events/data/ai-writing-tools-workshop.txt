@@ -1,0 +1,6 @@
+﻿date: 2026-10-03
+title: AI Writing Tools Workshop
+category: Workshop
+cancelled: false
+---
+Practical uses of AI writing assistants: prompts, limitations, and citations.

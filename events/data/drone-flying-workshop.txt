@@ -1,0 +1,6 @@
+﻿date: 2026-09-07
+title: Drone Flying Workshop
+category: Workshop
+cancelled: false
+---
+Learn basic drone operation, safety rules, and aerial photography.

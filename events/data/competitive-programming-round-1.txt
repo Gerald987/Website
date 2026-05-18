@@ -1,0 +1,6 @@
+﻿date: 2026-09-01
+title: Competitive Programming Round 1
+category: Competition
+cancelled: false
+---
+Solve algorithmic problems on Codeforces in a timed competition.

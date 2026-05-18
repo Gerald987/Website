@@ -1,0 +1,6 @@
+﻿date: 2027-05-08
+title: Digital Leaders Yearbook Photoshoot
+category: Event
+cancelled: false
+---
+Group photos and individual shots for the annual Digital Leaders yearbook page.

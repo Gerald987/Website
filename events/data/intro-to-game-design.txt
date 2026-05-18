@@ -1,0 +1,6 @@
+﻿date: 2027-03-15
+title: Intro to Game Design
+category: Talk
+cancelled: false
+---
+Game design principles: loops, levels, rewards, and player motivation.

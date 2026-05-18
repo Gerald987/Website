@@ -1,0 +1,6 @@
+﻿date: 2026-12-02
+title: Digital Art Showcase 2026
+category: Showcase
+cancelled: false
+---
+Students exhibit their best digital artworks, animations, and creative tech projects.

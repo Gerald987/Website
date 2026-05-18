@@ -1,0 +1,6 @@
+﻿date: 2026-11-05
+title: Intro to Web3
+category: Talk
+cancelled: false
+---
+An introduction to decentralised apps, smart contracts, and NFTs.

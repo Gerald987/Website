@@ -1,0 +1,6 @@
+date: 2027-02-11
+title: Developer's goodbye
+category: Talk
+cancelled: false
+---
+Welp, this was an absolute disaster that never saw the light of day. Don't know why I hung around for so long.

@@ -1,0 +1,6 @@
+﻿date: 2026-09-03
+title: Tech Career Panel
+category: Panel
+cancelled: false
+---
+Local industry professionals share insights on careers in technology.

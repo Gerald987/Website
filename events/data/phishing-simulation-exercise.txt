@@ -1,0 +1,6 @@
+﻿date: 2026-07-08
+title: Phishing Simulation Exercise
+category: Event
+cancelled: false
+---
+Experience a controlled phishing attempt and learn how to recognise real ones.

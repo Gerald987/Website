@@ -1,0 +1,6 @@
+﻿date: 2026-10-06
+title: Music Production with GarageBand
+category: Workshop
+cancelled: false
+---
+Compose and produce an original short track in GarageBand.

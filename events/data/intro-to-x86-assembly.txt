@@ -1,0 +1,6 @@
+﻿date: 2027-02-22
+title: Intro to Assembly with x86
+category: Workshop
+cancelled: false
+---
+Write and trace x86 assembly instructions and understand CPU registers.

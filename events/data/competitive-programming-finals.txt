@@ -1,0 +1,6 @@
+﻿date: 2026-12-14
+title: Competitive Programming Finals
+category: Competition
+cancelled: false
+---
+Final round of the year's competitive programming series - prizes awarded.

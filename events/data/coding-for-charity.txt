@@ -1,0 +1,6 @@
+﻿date: 2026-12-03
+title: Coding for Charity
+category: Event
+cancelled: false
+---
+Build a small app or tool to help a local charity with their digital operations.

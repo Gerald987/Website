@@ -1,0 +1,6 @@
+﻿date: 2026-08-29
+title: Intro to JavaScript
+category: Workshop
+cancelled: false
+---
+Add interactivity to web pages with your first lines of JavaScript.

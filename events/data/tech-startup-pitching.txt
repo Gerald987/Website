@@ -1,0 +1,6 @@
+﻿date: 2026-08-23
+title: Tech Startup Pitching 101
+category: Talk
+cancelled: false
+---
+How to pitch a technology idea to investors: structure, slides, and delivery.

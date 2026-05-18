@@ -1,0 +1,6 @@
+﻿date: 2026-09-09
+title: Google Workspace Tips and Tricks
+category: Workshop
+cancelled: false
+---
+Power-user features in Docs, Sheets, Slides, and Meet to boost productivity.

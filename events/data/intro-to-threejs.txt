@@ -1,0 +1,6 @@
+﻿date: 2026-12-06
+title: Intro to Three.js
+category: Workshop
+cancelled: false
+---
+Render 3D scenes in the browser using the Three.js WebGL library.

@@ -1,0 +1,6 @@
+﻿date: 2026-06-23
+title: Excel Productivity Workshop
+category: Workshop
+cancelled: false
+---
+Tips and tricks for data analysis, charts, and formulas in Microsoft Excel.

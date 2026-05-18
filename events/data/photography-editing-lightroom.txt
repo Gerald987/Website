@@ -1,0 +1,6 @@
+﻿date: 2027-03-23
+title: Photography Editing in Lightroom
+category: Workshop
+cancelled: false
+---
+Professional photo editing workflows using Adobe Lightroom.

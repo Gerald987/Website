@@ -1,0 +1,6 @@
+﻿date: 2027-03-31
+title: Intro to TypeScript
+category: Workshop
+cancelled: false
+---
+Add static typing to your JavaScript projects for safer, cleaner code.

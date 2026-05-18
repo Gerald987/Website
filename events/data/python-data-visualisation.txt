@@ -1,0 +1,6 @@
+﻿date: 2026-11-07
+title: Python Data Visualisation
+category: Workshop
+cancelled: false
+---
+Use matplotlib and pandas to turn raw data into meaningful charts.

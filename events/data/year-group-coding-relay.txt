@@ -1,0 +1,6 @@
+﻿date: 2026-11-21
+title: Year Group Coding Relay
+category: Competition
+cancelled: false
+---
+Houses compete in a coding relay where each team member adds to the running code.

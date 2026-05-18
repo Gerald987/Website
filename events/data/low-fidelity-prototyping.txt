@@ -1,0 +1,6 @@
+﻿date: 2027-04-24
+title: Low-Fidelity Prototyping with Paper
+category: Workshop
+cancelled: false
+---
+Sketch, test, and iterate on interface ideas using paper prototyping techniques.

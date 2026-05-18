@@ -1,0 +1,6 @@
+﻿date: 2027-03-01
+title: Intro to Elixir
+category: Workshop
+cancelled: false
+---
+Explore functional programming concepts through Elixir and the BEAM ecosystem.

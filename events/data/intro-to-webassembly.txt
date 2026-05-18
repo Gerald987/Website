@@ -1,0 +1,6 @@
+﻿date: 2027-01-24
+title: Intro to WebAssembly
+category: Talk
+cancelled: false
+---
+A high-level overview of how WebAssembly works and why it matters for performance.

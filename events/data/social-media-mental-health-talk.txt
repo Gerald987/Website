@@ -1,0 +1,6 @@
+﻿date: 2026-09-15
+title: Social Media and Mental Health Talk
+category: Talk
+cancelled: false
+---
+Discussion on how social media algorithms affect wellbeing and digital habits.

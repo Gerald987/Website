@@ -1,0 +1,6 @@
+﻿date: 2027-03-13
+title: Annual Guest Speaker Series: Round 1
+category: Talk
+cancelled: false
+---
+Industry leader talks about their journey from school to a leading tech firm.

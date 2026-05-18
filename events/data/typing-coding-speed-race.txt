@@ -1,0 +1,6 @@
+﻿date: 2026-09-26
+title: Typing and Coding Speed Race
+category: Competition
+cancelled: false
+---
+Race against each other in a combined typing and short coding challenge.

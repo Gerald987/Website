@@ -1,0 +1,6 @@
+﻿date: 2027-04-14
+title: Product Management for Developers
+category: Talk
+cancelled: false
+---
+Understanding user stories, sprint planning, and the developer-PM relationship.

@@ -1,0 +1,6 @@
+﻿date: 2027-03-03
+title: Website Performance Optimisation
+category: Workshop
+cancelled: false
+---
+Techniques to make websites load faster: lazy loading, caching, and minification.

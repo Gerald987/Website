@@ -1,0 +1,6 @@
+﻿date: 2026-10-12
+title: STEM Outreach Planning Session
+category: Event
+cancelled: false
+---
+Plan workshops to introduce younger students to technology and coding.

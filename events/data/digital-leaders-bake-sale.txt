@@ -1,0 +1,6 @@
+﻿date: 2027-02-21
+title: Digital Leaders Bake Sale
+category: Event
+cancelled: false
+---
+Fundraiser with a tech twist - all pricing and ordering handled by a student-built app.

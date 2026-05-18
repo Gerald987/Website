@@ -1,0 +1,6 @@
+﻿date: 2026-09-04
+title: School App Development Project
+category: Event
+cancelled: false
+---
+Kick off a term-long project to build a useful app for the school community.
